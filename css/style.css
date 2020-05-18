@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "Booter - Zero Zero";
-    src: url("/fonts/BOOTERZZ.ttf");
+    src: url("../fonts/BOOTERZZ.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -54,7 +54,7 @@ html, body {
 
 .main-header {
     background-color: rgba(0, 0, 0, 0.6);
-    background-image: url('/images/header_background.jpg');
+    background-image: url('../images/header_background.jpg');
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
